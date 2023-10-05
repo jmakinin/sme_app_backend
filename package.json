@@ -1,0 +1,8 @@
+{
+  "name": "sme_app_backend",
+  "version": "1.0.0",
+  "description": "sme app backend",
+  "main": "index.js",
+  "author": "jmakinin <36607363+jmakinin@users.noreply.github.com>",
+  "license": "MIT"
+}
